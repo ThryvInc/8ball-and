@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:id="@+id/layout"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".EightballActivity"
+    android:background="@android:color/black">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/white_circle"/>
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:textSize="40sp"
+        android:text="8"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:gravity="center"/>
+
+    <TextView android:text="@string/shake_me"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_centerInParent="true"
+        android:padding="20dp"
+        android:id="@+id/textView"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        />
+
+    <ImageView
+        android:id="@+id/iv_text_area"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginLeft="10dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/rounded_border"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/iv_text_area"
+        android:background="@android:color/black"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_above="@+id/iv_text_area"
+        android:background="@android:color/black"
+        />
+
+</RelativeLayout>
