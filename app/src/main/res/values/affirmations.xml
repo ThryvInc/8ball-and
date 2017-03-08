@@ -2,7 +2,27 @@
 <resources>
     <string-array name="affirmations">
         <item>You are in control</item>
-        <item>People like you</item>
+        <item>You can take a different path</item>
+        <item>You deserve to be loved</item>
+        <item>You will reach your goals</item>
+        <item>Listen to your quiet voice within</item>
+        <item>Your life makes a difference</item>
+        <item>Your work is important</item>
+        <item>You are needed</item>
+        <item>You can change your mind</item>
+        <item>Evil fails where there is love</item>
+        <item>Your answers are in your heart</item>
+        <item>You are surrounded by love</item>
+        <item>You are surrounded by opportunity</item>
+        <item>It\'s okay to rest and care for yourself</item>
+        <item>Let go a little and trust in others</item>
+        <item>You are wanted</item>
+        <item>Take a moment to breathe</item>
+        <item>Take a moment to enjoy the sky</item>
+        <item>Trust that you will be alright</item>
+        <item>Things go right more than go wrong</item>
+        <item>Things keep getting better</item>
+        <item>People do like you</item>
         <item>You will get through this</item>
         <item>You are free</item>
         <item>You can do what you want</item>
@@ -11,20 +31,22 @@
         <item>You are in charge of your life</item>
         <item>You are in control of your life</item>
         <item>There are people who love you</item>
-        <item>The world is, by and large, good</item>
+        <item>The world is mostly a safe place</item>
         <item>You have agency</item>
         <item>You can figure things out</item>
         <item>There are reasons to be joyful</item>
+        <item>There are reasons to be grateful</item>
         <item>You are good at things</item>
         <item>People rely on you</item>
         <item>You are good</item>
-        <item>You make a difference</item>
+        <item>You do make a difference</item>
         <item>People appreciate you</item>
         <item>You are important</item>
         <item>You are cared about</item>
         <item>There is someone looking out for you</item>
         <item>You can change your life</item>
         <item>Good things happen to you</item>
+        <item>Good things will happen again</item>
         <item>You are allowed to be happy</item>
         <item>Things are going well</item>
         <item>Things keep getting better</item>
